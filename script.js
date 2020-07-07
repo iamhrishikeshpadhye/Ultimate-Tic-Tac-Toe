@@ -1,10 +1,3 @@
-/**
- * By @iamhrishikeshpadhye
- * https://github.com/andylolz/ultimate-tic-tac-toe
- *
- * code heavily based upon:
- * https://github.com/josephwegner/node-tac-toe
- */
 $(document).ready(function() {
     // click listener
     $(".little_table").find("td:not(.filled)").click(function() {
